@@ -1,0 +1,49 @@
+
+
+.hero {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.cta-button {
+    background-color: #ff6b35;
+    padding: 15px 30px;
+    border-radius: 25px;
+    display: inline-block;
+    margin-top: 20px;
+}
+.nav {
+    text-align: center;
+    padding: 20px;
+}
+.nav a {
+    margin: 0 30px;
+}
+.car-image-section {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.car-image-section img {
+  max-width: 100%;
+  height: auto;
+  top:60px;
+}
+.service-item {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 10px 0;
+}
+
+.service-item h3 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.container {
+  display: flex;
+  
+}
